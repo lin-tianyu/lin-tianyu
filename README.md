@@ -15,7 +15,7 @@
 <!-- - 😄 Pronouns: ... -->
 
 ## 📊 GitHub Stats 
-![](https://api.visitorbadge.io/api/VisitorHit?user=lin-tianyu&repo=github-visitors-badge&countColor=%57068c)
+![](https://api.visitorbadge.io/api/VisitorHit?user=lin-tianyu&repo=lin-tianyu&countColor=%57068c)
 
 ![lin-tianyu's Stats](https://github-readme-stats.vercel.app/api?username=lin-tianyu&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![lin-tianyu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lin-tianyu&theme=default&show_icons=true&hide_border=true&layout=compact&card_width=350)
