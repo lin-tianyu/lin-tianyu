@@ -4,8 +4,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m Tianyu Lin, currently a BME🩻 MS student at [Department of Biomedical Engineering](https://www.bme.jhu.edu/), Johns Hopkins University🐦. 
-- 🏫 I'm now a research intern at the Computational Cognition, Vision, and Learning ([CCVL](https://ccvl.jhu.edu/)) research group, supervised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
+- 🔭 I’m Tianyu Lin, currently a research intern at [UII America, Inc.](https://www.uii-ai.com/), working with [Dr. Shanhui Sun](https://sites.google.com/site/shanhuisun), and
+a research assistant in [CAMCA](https://camca.mgh.harvard.edu/) group at Massachusetts General Hospital, Harvard Medical
+School, mentored by [Prof. Xiang Li](https://researchers.mgh.harvard.edu/profile/15451263/Xiang-Li).
+- 🏫 I was a research intern at the [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University🐦, supervised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 - 👀 I’m interested in Artificial Intelligence🤖, Coding💻, Photography📸 and Workout🏋️.
 - 👯 I’m looking to collaborate on building reliable medical vision intelligence systems🩻. Actively seeking collaborations🤝 for high-quality publications!
 - 📫 If you are interested in working with me, please feel free to email me via [tianyulin67@gmail.com](mailto:tianyulin67@gmail.com) 📩:)
