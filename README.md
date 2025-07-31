@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m Tianyu Lin, currently a research intern at [UII America, Inc.](https://www.uii-ai.com/), working with [Dr. Shanhui Sun](https://sites.google.com/site/shanhuisun), and
+- 🔭 I’m Tianyu Lin, currently a research intern at [UII America, Inc.](https://www.uii-ai.com/), and
 a research assistant in [CAMCA](https://camca.mgh.harvard.edu/) group at Massachusetts General Hospital, Harvard Medical
 School, mentored by [Prof. Xiang Li](https://researchers.mgh.harvard.edu/profile/15451263/Xiang-Li).
 - 🏫 I was a research intern at the [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins🐦, supervised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
