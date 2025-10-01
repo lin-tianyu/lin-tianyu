@@ -9,7 +9,7 @@ a research assistant in [CAMCA](https://camca.mgh.harvard.edu/) group at Massach
 School, mentored by [Prof. Xiang Li](https://researchers.mgh.harvard.edu/profile/15451263/Xiang-Li).
 - 🏫 I was a research intern at the [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins🐦, supervised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 - 👀 I’m interested in Artificial Intelligence🤖, Coding💻, Photography📸 and Workout🏋️.
-- 👯 I’m looking to collaborate on building reliable medical vision intelligence systems🩻. Actively seeking collaborations🤝 for high-quality publications!
+- 👯 I’m looking to collaborate on building reliable medical vision intelligence systems🩻. Actively seeking collaborations🤝 for high-quality publications! (Check my latest work at NeurIPS 2025: [Completness Aware Reconstruction Enhancement](https://github.com/MrGiovanni/CARE))
 - 📫 If you are interested in working with me, please feel free to email me via [tianyulin67@gmail.com](mailto:tianyulin67@gmail.com) 📩:)
 - 🔗 Visit my [webpage](https://lin-tianyu.github.io) for more of me😎!
 <!-- - 🤔 I’m looking for help with ... -->
