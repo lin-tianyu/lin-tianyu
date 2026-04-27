@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m a incoming CS PhD student at UIUC & [Harvard MGH](https://camca.mgh.harvard.edu/), co-supervised by Prof. [Jimeng Sun](https://www.sunlab.org/) and Prof. [Quanzheng Li](https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li) at Harvard MGH.
+- 🔭 I’m a incoming CS PhD student at [UIUC](https://siebelschool.illinois.edu/) & [Harvard MGH](https://camca.mgh.harvard.edu/), co-supervised by Prof. [Jimeng Sun](https://www.sunlab.org/) and Prof. [Quanzheng Li](https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li) at Harvard MGH.
 - 🏫 I was a research intern at the [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins🐦, supervised by [Prof. Zongwei Zhou](https://www.zongweiz.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 - 👀 I’m interested in Coding💻, Photography📸 and Workout🏋️.
 - 👯 I’m looking to collaborate on building reliable medical vision analysis systems🩻. Actively seeking collaborations🤝 for high-quality publications! (Check my latest work at NeurIPS 2025: [Completness Aware Reconstruction Enhancement](https://github.com/MrGiovanni/CARE))
